@@ -22,7 +22,7 @@ export default async function HomePage() {
         <div className="mx-auto grid max-w-7xl gap-10 px-4 py-12 md:grid-cols-[1.1fr_0.9fr] md:py-16">
           <div className="flex flex-col justify-center">
             <p className="mb-4 text-xs font-black uppercase tracking-[0.22em] text-veld">Southern African commerce</p>
-            <h1 className="max-w-3xl text-5xl font-black leading-[1.02] text-ink md:text-7xl">BPG Marketplace</h1>
+            <h1 className="max-w-3xl text-5xl font-black leading-[1.02] text-ink md:text-7xl">Africa's Marketplace</h1>
             <p className="mt-5 max-w-2xl text-lg leading-8 text-ink/70">
               Verified sellers, customer-friendly checkout, and order tracking built for South Africa first with a clear path to regional delivery.
             </p>
